@@ -1,0 +1,8 @@
+instale as depedencias:
+
+npm i nodemon
+npm i express
+npm add mysql2 express cors nodemon
+
+iniciando os servidor e cliente com :
+npm start
